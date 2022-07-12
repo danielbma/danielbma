@@ -2,10 +2,10 @@
 
 Oi sou o Daniel Cesar, desenvolvedor full stack!
 
-<div>
+<div align="center">
   <a href="https://github.com/danielbma">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielbma&show_icons=true&theme=react&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbma&layout=compact&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danielbma&show_icons=true&theme=react&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbma&layout=compact&theme=react&locale=pt-br"/>
 </div>
 
 <!--
