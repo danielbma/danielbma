@@ -8,16 +8,16 @@ Oi sou o Daniel Cesar, desenvolvedor full stack!
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbma&layout=compact&langs_count=7&theme=react&locale=pt-br"/>
 </div>
 
-### Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
                     
-### Contribuições
+## Contribuições
 
-![Snake animation]()
+![Snake animation](https://github.com/danielbma/danielbma/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **danielbma/danielbma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
